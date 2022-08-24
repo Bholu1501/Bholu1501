@@ -4,7 +4,7 @@
 
 🎓 I’m a student pursuing my B.Sc in Computer Science.<br />
 👨‍:computer: I enjoy learning and applying my skills in the field of machine learning especially Computer Vision.<br />
-:martial_arts_uniform: Also I have started my journey in the path of becoming an Ethical Hacker and am seeking forward to learn more about it.
+🐍 I Love Programming with Python so i might take the pleasure of calling myself a Pythonista !!
 
 
 ## Tech I'm familiar with :round_pushpin:
